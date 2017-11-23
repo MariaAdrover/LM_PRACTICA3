@@ -1,0 +1,57 @@
+@media only screen and (min-width: 720px)
+
+body, html{
+	height:100%;padding:0px;margin:0px;
+}
+
+body{background:url(../img/cielo.jpeg) no-repeat fixed center;}
+
+
+a:hover{background-color: #0043E1;}
+
+a {
+    text-decoration: none;
+	color:green;
+}
+
+.fondo1{
+	position:fixed;
+	top:0;
+	height:20%;
+	max-height:20%;
+	text-align:center;
+}
+
+.fondo1 img{
+	heigth:100%;
+}
+
+.instrucciones{
+	text-align:center;
+	position:fixed;
+	top:35%;
+	left:12%;
+	width:70%;
+	height:33%;
+	background-color:yellow;
+	color:green;
+	border-style: solid;
+	border-width: 12px;
+    border-color: grey;
+	font-family: 'Lucida console';
+}
+
+#volver {
+	position:absolute;
+	left:23%;
+	bottom:10%;
+	width:50%;
+	padding:2%;
+	background-color: grey;
+}
+
+.fondo2{
+	position:fixed;
+	bottom:0;
+	height:30%;
+}
