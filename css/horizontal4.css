@@ -21,8 +21,8 @@ a :hover{background-color: #0043E1;}
 .menu1{
 	text-align:left;
 	position:fixed;
-	top:0%;
-	left:0%;
+	top:2%;
+	left:2%;
 	width:25%;
 	height:35%;
 }
@@ -48,7 +48,7 @@ a :hover{background-color: #0043E1;}
 .menu2{
 	text-align:right;
 	position:fixed;
-	top:0%;
+	top:2%;
 	right:2%;
 	width:25%;
 }

@@ -16,13 +16,13 @@ ul{
 a :hover{background-color: #0043E1;}
 
 #nave{text-align:center;position:fixed;top:5%;width:100%;height:20%;}
-#nave img{height:85%;}
+#nave img{height:80%;}
 
 .menu1{
 	text-align:left;
 	position:fixed;
-	top:0%;
-	left:0%;
+	top:5%;
+	left:2%;
 	width:25%;
 	height:35%;
 }
@@ -34,10 +34,11 @@ a :hover{background-color: #0043E1;}
 #m1a{
 	width:90%;
 	max-width:88%;
-	margin:2%;
+	margin:4%;
+	margin-bottom:10%;
 	background-color:orange;
 	border-style: solid;
-	border-width: 11px;
+	border-width: 6px;
     border-color: grey;
 }
 
@@ -46,13 +47,13 @@ a :hover{background-color: #0043E1;}
 	background-color:blue;
 }
 
-.m1c {display:block;width:80%;padding:2%;}
+.m1c {display:block;width:100%;padding:2%;margin:2%;margin-bottom:4%;}
 	
 .menu2{
 	text-align:right;
 	position:fixed;
-	top:1%;
-	right:2%;
+	top:4%;
+	right:4%;
 	width:25%;
 }
 
@@ -60,28 +61,30 @@ a :hover{background-color: #0043E1;}
 	height:100%;display:inline;
 }
 
-.m2 img{width:40%;padding:2%;}
+
+
+.m2 img{width:65%;padding:6%;margin-bottom:15%;}
 
 .instrucciones{
 	text-align:left;
 	position:fixed;
-	top:36%;
-	left:28%;
-	width:40%;
-	height:15%;
+	top:35%;
+	left:12%;
+	width:70%;
+	height:33%;
 	background-color:yellow;
 	border-style: solid;
 	border-width: 12px;
     border-color: grey;
 }
 
-#c{position:absolute; left:5%; top:2%; width:90%; height:24%;}
+#c{position:absolute; left:4%; top:11%; width:89%; height:16%;}
 #c img{width:100%;height:100%;padding:2%;}
 
-#d{position:absolute; left:5%; top:32%; width:90%; height:27%;}
+#d{position:absolute; left:4%; top:39%; width:89%; height:16%;}
 #d img{width:100%;height:100%;padding:2%;}
 
-#e{position:absolute; left:5%; top:65%; width:90%; height:26%;}
+#e{position:absolute; left:4%; top:68%; width:88%; height:15%;}
 #e img{width:100%;height:100%;padding:2%;}
 
 #power{
@@ -93,7 +96,7 @@ a :hover{background-color: #0043E1;}
 	position:fixed;
 	bottom:0%;
 	width:100%;
-	height:20%;
+	height:17%;
 }
 
 #luna img{display:inline-block;height:100%;}
