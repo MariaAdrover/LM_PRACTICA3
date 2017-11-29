@@ -1,15 +1,14 @@
 # LM_PRACTICA3
 Lunar Lander CSS
 
-https://rawgit.com/MariaAdrover/LM_PRACTICA3/master/LunarLander1.html
-https://rawgit.com/MariaAdrover/LM_PRACTICA3/master/instruccionesLunarLander.html
-
-
 Enllaç de LunarLander:
+https://rawgit.com/MariaAdrover/LM_PRACTICA3/master/LunarLander1.html
+
 Enllaç de LunarLander optimizat:
+https://rawgit.com/MariaAdrover/LM_PRACTICA3/MINI/LunarLander1.html
+
 
 MODIFICACIONS
-
 
 DISSENY DELS BOTONS
 Per diferents motius que explico més abaix, he  redissenyat alguns dels botons. He intentat
