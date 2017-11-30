@@ -8,7 +8,7 @@
 ### MODIFICACIONS
 
 **DISSENY DELS BOTONS**
-Per diferents motius que explico més abaix, he  redissenyat alguns dels botons. He intentat seguir la línea del disseny original, utilitzant els mateixos colors i estils.
+>Per diferents motius que explico més abaix, he  redissenyat alguns dels botons. He intentat seguir la línea del disseny original, utilitzant els mateixos colors i estils.
  
  * COMBUSTIBLE
 Per fer la barra de combustible he utilitzat el color verd per representar que el depòsit està ple i va 
