@@ -22,6 +22,7 @@ que han d'indicar l'altura i la velocitat. Els he fet més amples i he fet un te
 afegint un petit rectangle amb tonalitats clares (les mateixes que surten a la imatge de la lluna)
 per a que els nombres es vegin més clars quan els posi amb JavaScript.
 >
+>
 ![ALTURA1](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura.png)
 ![ALTURA2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura1.png)
 ![ALTURA3](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura2.png)
@@ -32,10 +33,11 @@ en anglès. L'accelerador l'he deixat en anglès, perquè per l'estil del dissen
 que és aquesta paraula en anglès, pens que no queda malament. El botó de dificultat sí que l'he canviat,
 així com el de reiniciar i el d'instruccions, perquè els originals tenen tamanys diferents que no
 quedaven bé.
-![INSTRUCCIONES](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/instrucciones.png)
+>
 ![REINICIAR](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/reiniciar.png)
 ![DIFICULTAD](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/dificultad.png)
 > Nova versió:
+>
 ![REINICIAR2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/reiniciar1.png)
 ![DIFICULTAD2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/dificultad1.png)
 
@@ -44,6 +46,7 @@ Per la pàgina d'instruccions he fet un disseny provissional molt senzill utlitz
 marc contenidor que surt al disseny original (marc gris i fons groc). Els botons tenen color verd però he posat el text en blau
 perquè el verd i el groc no fan un bon contrast. 
 He fet un botó per tornar al joc amb el mateix estil dels altres.
+>
 ![TORNAR](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/VOLVER.png)
 
 **PANEL D'OPCIONS (Dreta)**
