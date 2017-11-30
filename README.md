@@ -32,6 +32,7 @@ en anglès. L'accelerador l'he deixat en anglès, perquè per l'estil del dissen
 que és aquesta paraula en anglès, pens que no queda malament. El botó de dificultat sí que l'he canviat,
 així com el de reiniciar i el d'instruccions, perquè els originals tenen tamanys diferents que no
 quedaven bé.
+![INSTRUCCIONES](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/instrucciones.png)
 ![REINICIAR](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/reiniciar.png)
 ![DIFICULTAD](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/dificultad.png)
 > Nova versió:
