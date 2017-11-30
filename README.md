@@ -21,6 +21,7 @@ que han d'indicar l'altura i la velocitat. Els he fet més amples i he afegit un
 >
 ![ALTURA1](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura.png)
 ![ALTURA2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura2.png)
+>
 ![INDICADORS](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/indicadores.png)
 
  * REINICIAR, INSTRUCCIONS I DIFICULTAT
