@@ -36,7 +36,8 @@ quedaven bé.
 >
 ![REINICIAR](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/reiniciar.png)
 ![DIFICULTAD](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/dificultad.png)
-> Nova versió:
+>
+Nova versió:
 >
 ![REINICIAR2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/reiniciar1.png)
 ![DIFICULTAD2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/dificultad1.png)
