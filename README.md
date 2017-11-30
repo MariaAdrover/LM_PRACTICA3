@@ -9,11 +9,9 @@
 
 **DISSENY DELS BOTONS**
 >Per diferents motius que explico més abaix, he  redissenyat alguns dels botons. He intentat seguir la línea del disseny original, utilitzant els mateixos colors i estils.
- 
  * COMBUSTIBLE
 Per fer la barra de combustible he utilitzat el color verd per representar que el depòsit està ple i va 
 quedant vermell a mida que es buida. Els dos colors combinen bé amb els colors de la resta d'elements. 
-
  * ALTURA, VELOCITAT I ACCELERADOR
 He refet les tres imatges perquè crec que els colors originals, fons gris i lletres vermelles, no 
 contrasten gaire bé.
@@ -21,7 +19,6 @@ A més, els indicadors d'altura i velocitat, no tenien l'ample suficient per mos
 que han d'indicar l'altura i la velocitat. Els he fet més amples i he fet un tercer disseny
 afegint un petit rectangle amb tonalitats clares (les mateixes que surten a la imatge de la lluna)
 per a que els nombres es vegin més clars quan els posi amb JavaScript.
->
 >
 ![ALTURA1](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura.png)
 ![ALTURA2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura1.png)
@@ -41,7 +38,7 @@ Nova versió:
 >
 ![REINICIAR2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/reiniciar1.png)
 ![DIFICULTAD2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/dificultad1.png)
-
+>
 **INSTRUCCIONS**
 Per la pàgina d'instruccions he fet un disseny provissional molt senzill utlitzant la mateixa imatge de fons i el mateix
 marc contenidor que surt al disseny original (marc gris i fons groc). Els botons tenen color verd però he posat el text en blau
@@ -49,7 +46,7 @@ perquè el verd i el groc no fan un bon contrast.
 He fet un botó per tornar al joc amb el mateix estil dels altres.
 >
 ![TORNAR](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/VOLVER.png)
-
+>
 **PANEL D'OPCIONS (Dreta)**
 Al disseny original, els botons de CANVIAR DE NAU i de REINICIAR apareixen un devora l'altre,
 tant a la versió de mòbil com a la versió d'escriptori. Fent proves vaig veure que a la versió mòbil,
