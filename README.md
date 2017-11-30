@@ -16,13 +16,12 @@ quedant vermell a mida que es buida. Els dos colors combinen bé amb els colors 
 He refet les tres imatges perquè crec que els colors originals, fons gris i lletres vermelles, no 
 contrasten gaire bé.
 A més, els indicadors d'altura i velocitat, no tenien l'ample suficient per mostrar els nombres 
-que han d'indicar l'altura i la velocitat. Els he fet més amples i he fet un tercer disseny
-afegint un petit rectangle amb tonalitats clares (les mateixes que surten a la imatge de la lluna)
-per a que els nombres es vegin més clars quan els posi amb JavaScript.
+que han d'indicar l'altura i la velocitat. Els he fet més amples i he afegit un petit rectangle amb tonalitats clares 
+(les mateixes que surten a la imatge de la lluna) per a que els nombres es vegin més clars quan els posi amb JavaScript.
 >
 ![ALTURA1](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura.png)
-![ALTURA2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura1.png)
-![ALTURA3](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura2.png)
+![ALTURA2](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/altura2.png)
+![INDICADORS](https://github.com/MariaAdrover/LM_PRACTICA3/blob/master/imgR/indicadores.png)
 
  * REINICIAR, INSTRUCCIONS I DIFICULTAT
 Tots els botons estaven en castellà menys el de DIFICULTAT que estava en català, i l'ACCELERADOR (POWER),
